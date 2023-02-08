@@ -1,0 +1,3 @@
+- [✔] Fazer o Player tocar automaticamente quando a janela abrir
+- [✔] Player contendo nomes da Musica, Cantor e o Audio
+- [✔] Alimentar o Player com os dados de audio 
